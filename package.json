@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "foundation-sites": "^6.4.4-rc1",
+    "vue": "^2.5.9"
+  }
+}
